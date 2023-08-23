@@ -4,3 +4,5 @@ numpy
 torch
 mecab-python3
 transformers
+BertJapaneseTokenizer
+BertModel
