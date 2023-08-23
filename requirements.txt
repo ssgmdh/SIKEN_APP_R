@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+re
+json
+os
+torch
+torch.nn.functional
+transformers
