@@ -53,7 +53,6 @@ MODEL_NAME = "sonoisa/sentence-bert-base-ja-mean-tokens-v2"  # <- v2です。
 model = SentenceBertJapanese(MODEL_NAME)
 
 ##ここまでモデル----------
-
 # df読み込み
 df = pd.read_csv('m2022_ans.csv', header=0)
 

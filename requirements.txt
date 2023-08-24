@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 torch
-mecab-python3
+mecab-python3 unidic-lite
 transformers
